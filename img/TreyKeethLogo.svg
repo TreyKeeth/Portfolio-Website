@@ -11,6 +11,7 @@
    sodipodi:docname="TreyKeethLogo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -25,7 +26,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.55232884"
-     inkscape:cx="343.99797"
+     inkscape:cx="340.37694"
      inkscape:cy="304.16662"
      inkscape:window-width="1309"
      inkscape:window-height="840"
@@ -35,6 +36,14 @@
      inkscape:current-layer="g181825" />
   <defs
      id="defs174202">
+    <linearGradient
+       id="linearGradient229852"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#357b70;stop-opacity:1;"
+         offset="0"
+         id="stop229850" />
+    </linearGradient>
     <rect
        x="271.57733"
        y="307.78766"
@@ -59,6 +68,15 @@
        width="661.14508"
        height="751.5174"
        id="rect175292" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient229852"
+       id="linearGradient229858"
+       gradientUnits="userSpaceOnUse"
+       x1="52.492312"
+       y1="270.76063"
+       x2="215.48092"
+       y2="270.76063" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -71,12 +89,10 @@
          xml:space="preserve"
          transform="scale(0.26458333)"
          id="text175290"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect175292);display:inline;fill:#000000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect175292);display:inline;fill:#000000;stroke:#357b70;stroke-opacity:1"><tspan
            x="52.320312"
            y="280.00062"
-           id="tspan227841"><tspan
-             style="stroke:#357b70"
-             id="tspan227839">Trey Keeth</tspan></tspan></text>
+           id="tspan229878">Trey Keeth</tspan></text>
     </g>
     <text
        xml:space="preserve"
