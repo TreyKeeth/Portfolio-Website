@@ -151,6 +151,7 @@ main{
     margin-left: 15px;
 }
 
+
 .paintbrush{
     width: 2%;
     height: 2%;
@@ -183,6 +184,7 @@ main{
 .about-image{
     padding-bottom: 500px;
 }
+
 
 
 
@@ -249,7 +251,6 @@ main{
         background-color: lightgray;
         width: auto;
         min-height: auto;
-        margin: 0;
     }
 
     .grid__item:last-child {
