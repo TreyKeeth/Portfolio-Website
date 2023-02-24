@@ -152,16 +152,19 @@ main{
     margin-left: 15px;
 }
 
-
 .paintbrush{
     width: 2%;
     height: 2%;
     animation-duration: 3s;
-        animation-name: paintbrush-move;
-        animation-iteration-count: 2;
-        animation-direction: alternate;
-        animation-timing-function: ease-out;
-        animation-delay: 2s;
+    animation-name: paintbrush-move;
+    animation-iteration-count: 2;
+    animation-direction: alternate;
+    animation-timing-function: ease-out;
+    animation-delay: 1s;
+}
+
+section {
+    padding: 20px;
 }
 
 .current-skills{
@@ -218,11 +221,11 @@ main{
 
 @keyframes paintbrush-move {
     from {
-        transform: translate(0px, 1px);
+        transform: translate(20px, 1px);
     }
 
     to {
-        transform: translate(550px, 1px);
+        transform: translate(570px, 1px);
     }
 }
 
@@ -247,8 +250,6 @@ main{
         grid-template-columns: 1fr 1fr 1fr;
         grid-gap: 20px;
         margin: 0;
-        padding: 20px;
-
     }
 
     .grid__item {
