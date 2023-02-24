@@ -90,6 +90,7 @@ button:focus,
 .navigation-list__item--active {
     text-decoration: none;
 }
+
 .standard-label__submit {
     border: none;
         /* takes the font from the outer container */
@@ -184,6 +185,7 @@ main{
 .about-image{
     padding-bottom: 500px;
 }
+
 
 
 
