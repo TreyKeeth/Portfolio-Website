@@ -131,6 +131,11 @@ main{
     font-style: italic;
     flex-direction: column;
 }
+
+.footer__social {
+    text-decoration: none;
+}
+
 .page-header {
     display: flex;
     width: 100%;
