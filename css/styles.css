@@ -155,7 +155,7 @@ main{
 .paintbrush{
     width: 2%;
     height: 2%;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-name: paintbrush-move;
     animation-iteration-count: 2;
     animation-direction: alternate;
@@ -229,7 +229,7 @@ section {
     }
 
     to {
-        transform: translate(570px, 1px);
+        transform: translate(530px, 1px);
     }
 }
 
@@ -293,4 +293,16 @@ section {
     h1 {
         font-size: 22px;
     }
+}
+
+@media all and (max-width: 650px) {
+    @keyframes paintbrush-move {
+            from {
+                transform: translate(20px, 1px);
+            }
+    
+            to {
+                transform: translate(300px, 1px);
+            }
+}
 }
